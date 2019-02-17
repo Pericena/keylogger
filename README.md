@@ -1,9 +1,9 @@
 # keylogger
 
 Un keylogger (derivado del inglés: key ('tecla') y logger ('registrador'); 'registrador de teclas') es un tipo de software o un dispositivo hardware específico que se encarga de registrar las pulsaciones que se realizan en el teclado, para posteriormente memorizarlas en un fichero o enviarlas a través de internet.
-- https://www.lpericena.tk/2017/06/keylogger.html
+https://www.lpericena.tk/2017/06/keylogger.html
 
-- Sigueme en las redes Sociales:
+### Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
 - 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
