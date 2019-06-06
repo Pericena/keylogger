@@ -29,11 +29,29 @@ https://www.lpericena.tk/2017/06/keylogger.html
 - 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
 - 📡 wix https://lpericena.wixsite.com/curriculumvitae
 
+https://join-adf.ly/21179079
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="MJPRV838AYA2J" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_BO/i/scr/pixel.gif" width="1" height="1" />
+<div style="text-align: center;">
+<input alt="Donate with PayPal button" border="0" name="submit" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" title="PayPal - The safer, easier way to pay online!" type="image" />
+</div>
+<div style="text-align: center;">
+<img alt="" border="0" height="1" src="https://www.paypal.com/en_BO/i/scr/pixel.gif" width="1" /></div>
 </form>
-<!-- Start of adf.ly banner code --><a href="https://join-adf.ly/21179079"><img border="0" src="https://cdn.ay.gy/images/banners/adfly.350x19.1.png" width="320" height="23" title="AdF.ly - acorta links y gana dinero!" /></a>
-<!-- End of adf.ly banner code -->
+<div style="text-align: center;">
+<!-- Start of adf.ly banner code --><a href="https://join-adf.ly/21179079"><img border="0" height="23" src="https://cdn.ay.gy/images/banners/adfly.350x19.1.png" title="AdF.ly - acorta links y gana dinero!" width="320" /></a></div>
+<div style="text-align: center;">
+<b>Donación paypal</b></div>
+<div style="text-align: center;">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MJPRV838AYA2J&amp;source=url">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MJPRV838AYA2J&amp;source=url</a></div>
+<div style="text-align: center;">
+<a href="https://join-adf.ly/21179079">https://join-adf.ly/21179079</a></div>
+<div style="text-align: center;">
+<span style="color: red;">ADVERTENCIA: NO INTENTE HACER UN ATAQUE SIN EL PERMISO DE PROPIETARIO DEL SITIO WEB. ES UN PROPÓSITO EDUCATIVO SOLAMENTE. NO ES RESPONSABLE DE NINGÚN TIPO DE PROBLEMA ILEGAL.</span></div>
+<div style="text-align: center;">
+<span style="color: #3d85c6;">
+</span></div>
+<div style="text-align: center;">
+<span style="color: #3d85c6;">PERMANECE LEGAL. GRACIAS!</span></div>
+<div style="text-align: center;">
+<i>Si tienes algún problema, deja un comentario.</i></div>
+</div>
